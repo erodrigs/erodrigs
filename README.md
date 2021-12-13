@@ -1,4 +1,5 @@
-## Oi, eu sou o Erick!
+## Oi, eu sou o Erick! 
+<img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50">
 
 - 🌱 Sou estudante de Desenvolvimento Web Full Stack na Trybe
 - 💬 Moro em Pernambuco
