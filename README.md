@@ -26,6 +26,6 @@
   
 </div>
   
-<img align="left" width="47%" src="https://camo.githubusercontent.com/d2762bf4f867ca869b4c5a1de68c783a100b92d6453c123489ec283eaf4d7c80/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d4c656f6e6172646f2d4c6f7572656e636f266c61796f75743d636f6d70616374" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=erodrigs;layout=compact" style="max-width: 100%;">
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erodrigs&layout=compact" />
   
 
