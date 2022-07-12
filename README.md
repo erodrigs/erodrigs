@@ -1,4 +1,5 @@
-## Oi, eu sou o Erick! 
+## E aí, pessoal! Meu nome é Erick e estou aprendendo a programar.
+
 <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50">
 
 - Full Stack Web Development Student at Trybe
