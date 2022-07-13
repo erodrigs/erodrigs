@@ -1,8 +1,7 @@
-## E aí, pessoal! Meu nome é Erick e estou aprendendo a programar.
+## Estudante de Desenvolvimento Web na Trybe.
 
 <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50">
 
-- Full Stack Web Development Student at Trybe
 - Caruaru-PE
 - Pronouns: ele/dele
 
