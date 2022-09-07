@@ -17,6 +17,6 @@
 </div>
 <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=erodrigs&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=erodrigs&layout=compact)](https://github.com/erodrigs/github-readme-stats)
 
-Apaixonado por tecnologia, música e games 🕹️
+Apaixonado por tecnologia, games e música
